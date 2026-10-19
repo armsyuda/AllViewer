@@ -1,0 +1,41 @@
+본 제품은 한컴의 HWP 문서 파일(.hwp) 공개 문서를 참고하여 개발하였습니다.
+
+# 다뷰(AllViewer) NOTICE
+
+다뷰는 아래 오픈소스 부품을 사용합니다. 각 부품은 자기 라이선스를 따릅니다. 전체 목록과 라이선스 글은 설치 폴더의 `licenses` 폴더에 있습니다.
+
+## 주요 부품과 출처
+
+| 부품 | 버전 | 쓰는 곳 | 라이선스 | 출처 |
+|---|---|---|---|---|
+| LibreOffice (일부 파일만 포함) | 26.8.1.1 | 구형 문서 변환 | MPL-2.0 (함께 든 부품은 LGPL, PSF, ICU 등 각자의 라이선스) | The Document Foundation (LibreOffice 공식 소스 배포처, https://download.documentfoundation.org/libreoffice/src/) |
+| rdocx · oxml-layout · rpptx (수정본) | rdocx 0.16.1 · oxml-layout 0.14.1 · rpptx 0.14.1 | 워드·파워포인트 읽기 | MIT OR Apache-2.0 | tensorbee/rdocx (commit 3a3b0de) |
+| rhwp (수정본) | 0.8.7 | 한글(HWP/HWPX) 읽기 | MIT | rhwp 프로젝트 |
+| pdf.js | 6.4.299 | PDF 표시 | Apache-2.0 | Mozilla pdf.js (npm `pdfjs-dist`) |
+| PaddleOCR PP-OCRv5 모델 | PP-OCRv5 | 글자 인식(OCR) | Apache-2.0 | PaddlePaddle PaddleOCR |
+| RTen (OCR 엔진) | 0.24.0 | 글자 인식(OCR) | MIT · Apache-2.0 | RTen 프로젝트 |
+
+## 글꼴
+
+| 글꼴 | 쓰는 곳 | 라이선스 |
+|---|---|---|
+| Noto Sans KR | 한글 문서 대체 글꼴 | OFL-1.1 |
+| Carlito, Caladea, Gelasio, Liberation, Noto Sans (Thai·Arabic·Devanagari) | 문서 엔진 대체 글꼴 | OFL-1.1 |
+| Selawik | 문서 엔진 대체 글꼴 | OFL-1.1 (Microsoft) |
+| Foxit 표준 글꼴, Liberation Sans | pdf.js 표준 글꼴 | BSD식(PDFium) / OFL-1.1 |
+
+글꼴은 프로그램과 함께 다시 배포할 수 있지만, 글꼴만 따로 팔 수는 없습니다.
+
+## LibreOffice 관련 안내
+
+- LibreOffice 26.8.1.1에서 문서 변환에 필요한 일부 파일만 넣었습니다.
+- 영어 사전 확장(dict-en)의 설정 파일 2개를 고쳤습니다. 원본과 수정본은 `licenses` 폴더의 `office-modifications`에 있습니다.
+- 영어 사전 확장은 하이픈 패턴 파일(hyph_en_US, hyph_en_GB)만 넣었습니다.
+- LibreOffice 소스는 The Document Foundation의 공식 배포처에서 받을 수 있습니다.
+  - https://download.documentfoundation.org/libreoffice/src/
+
+## 그 밖의 안내
+
+- 한컴의 DLL·SDK·글꼴은 쓰지 않습니다.
+- 동영상·소리 코덱은 앱에 넣지 않았습니다. 재생은 WebView2(Edge)와 Windows가 맡습니다.
+- 그 밖의 Rust·npm 부품(대부분 MIT, Apache-2.0, BSD 등, 일부 MPL-2.0)의 고지는 설치 폴더의 `licenses` 폴더에 있습니다.
