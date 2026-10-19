@@ -1,0 +1,44 @@
+# 다뷰(AllViewer) 사용권 계약 (한국어)
+
+Copyright (c) 2026 JMT. 모든 권리 보유.
+
+이 계약은 다뷰(AllViewer) 프로그램과 함께 제공되는 파일·문서(이하 "소프트웨어")에 적용됩니다. 소프트웨어를 설치하거나 사용하면 이 계약에 동의한 것으로 봅니다.
+
+1. **무료 사용 허락** — 저작권자는 사용자에게 소프트웨어를 개인·업무 목적으로 무료로 설치하고 사용할 수 있는 비독점적이고 양도할 수 없는 권리를 허락합니다.
+2. **금지 사항** — 사용자는 다음을 할 수 없습니다.
+   1. 소프트웨어를 수정, 번역하거나 이를 바탕으로 2차적 저작물을 만드는 것
+   2. 소프트웨어를 복제해 다른 사람에게 배포, 공유, 대여, 임대하는 것
+   3. 소프트웨어를 판매하거나 유료로 제공하는 것
+   4. 관련 법률이 명시적으로 허용하는 범위를 넘어 역설계, 디컴파일, 디스어셈블하는 것
+   5. 저작권 표시와 이 계약을 지우거나 바꾸는 것
+3. **권리 보유** — 소프트웨어의 저작권과 모든 권리는 저작권자에게 있습니다. 이 계약은 사용권만 허락하며 소유권을 넘기지 않습니다.
+4. **제3자 구성요소** — 소프트웨어에 포함된 오픈소스 등 제3자 구성요소는 각자의 라이선스를 따릅니다. 해당 라이선스는 설치 폴더의 `licenses` 폴더에 있습니다. 그 라이선스가 이 계약과 다르면, 해당 구성요소에는 그 라이선스가 우선합니다.
+5. **보증의 부인** — 소프트웨어는 "있는 그대로" 제공됩니다. 저작권자는 상품성, 특정 목적 적합성, 권리 비침해를 포함한 어떠한 명시적·묵시적 보증도 하지 않습니다.
+6. **책임의 제한** — 관련 법률이 허용하는 최대 범위에서, 저작권자는 소프트웨어의 사용 또는 사용 불능으로 생긴 어떠한 직접·간접·부수적·특별·결과적 손해(자료 손실, 업무 중단 포함)에도 책임지지 않습니다.
+7. **계약 종료** — 사용자가 이 계약을 어기면 사용 권리는 자동으로 끝나며, 사용자는 소프트웨어를 삭제해야 합니다.
+8. **준거법** — 이 계약은 대한민국 법률을 따릅니다. 이 계약과 관련한 분쟁은 부산지방법원을 관할 법원으로 합니다.
+
+---
+
+# AllViewer End User License Agreement (English)
+
+Copyright (c) 2026 JMT. All rights reserved.
+
+This Agreement applies to the AllViewer program and the files and documents provided with it (the "Software"). By installing or using the Software, you agree to this Agreement.
+
+1. **Free Use License** — The copyright holder grants you a non-exclusive, non-transferable right to install and use the Software free of charge for personal or business purposes.
+2. **Restrictions** — You may not:
+   1. modify or translate the Software, or create derivative works based on it;
+   2. copy and distribute, share, lend, rent or lease the Software to others;
+   3. sell the Software or provide it for a fee;
+   4. reverse engineer, decompile or disassemble the Software, except to the extent expressly permitted by applicable law;
+   5. remove or alter any copyright notice or this Agreement.
+3. **Reservation of Rights** — The Software is licensed, not sold. The copyright holder retains all rights, title and interest in the Software.
+4. **Third-Party Components** — Open-source and other third-party components included in the Software are governed by their own licenses, found in the `licenses` folder of the installation directory. Where such a license conflicts with this Agreement, that license prevails for the relevant component.
+5. **Disclaimer of Warranty** — THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+6. **Limitation of Liability** — TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES (INCLUDING LOSS OF DATA OR BUSINESS INTERRUPTION) ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
+7. **Termination** — This license terminates automatically if you breach this Agreement, and you must then delete the Software.
+8. **Governing Law** — This Agreement is governed by the laws of the Republic of Korea. Any dispute arising from this Agreement shall be subject to the jurisdiction of the Busan District Court.
+
+한국어판과 영어판의 내용이 다르면 한국어판을 우선합니다.
+If the Korean and English versions differ, the Korean version prevails.
